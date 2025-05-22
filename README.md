@@ -1,4 +1,4 @@
-Blackjack Game in Python
+# Blackjack Game in Python
 
 This is a simple, text-based Blackjack game written in Python. You play against four automated opponents — one dealer and three NPCs — who each hit a random number of times.
 
